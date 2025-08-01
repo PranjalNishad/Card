@@ -38,21 +38,21 @@ This is a simple and **Order Summary Card** created using HTML and CSS. It is a 
 
  🛠️ Technologies Used
    
-    . HTML5
+       . HTML5
 
-    . CSS3
+       . CSS3
 
-    . Flexbox
+       . Flexbox
 
-    . Box Shadows and Gradients
+       . Box Shadows and Gradients
 
  📌 Customization
 
-    . Replace the placeholder images with your own branding.
+       . Replace the placeholder images with your own branding.
 
-    . Update text, pricing, and links to match your content.
+       . Update text, pricing, and links to match your content.
 
-    . Modify style.css to change layout, colors, and fonts.
+       . Modify style.css to change layout, colors, and fonts.
 
 
 
