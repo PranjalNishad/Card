@@ -13,3 +13,8 @@ This is a simple and responsive **Order Summary Card** created using HTML and CS
 
 ## 📁 Project Structure
 
+- `index.html` — contains the HTML structure.
+- `style.css` — contains all styling using Flexbox, gradients, and custom design.
+- `image.jpg`, `icon.jpg` — image files used in the card (update their paths as needed).
+
+
